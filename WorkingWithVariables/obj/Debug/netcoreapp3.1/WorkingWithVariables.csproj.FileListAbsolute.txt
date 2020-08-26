@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\WorkingWithVariables\obj\Debug\netcoreapp3.1\WorkingWithVariables.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\WorkingWithVariables\obj\Debug\netcoreapp3.1\WorkingWithVariables.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\WorkingWithVariables\obj\Debug\netcoreapp3.1\WorkingWithVariables.AssemblyInfo.cs
+E:\C#_Projects\C#7C\WorkingWithVariables\obj\Debug\netcoreapp3.1\WorkingWithVariables.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\WorkingWithVariables\bin\Debug\netcoreapp3.1\WorkingWithVariables.exe
+E:\C#_Projects\C#7C\WorkingWithVariables\bin\Debug\netcoreapp3.1\WorkingWithVariables.deps.json
+E:\C#_Projects\C#7C\WorkingWithVariables\bin\Debug\netcoreapp3.1\WorkingWithVariables.runtimeconfig.json
+E:\C#_Projects\C#7C\WorkingWithVariables\bin\Debug\netcoreapp3.1\WorkingWithVariables.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\WorkingWithVariables\bin\Debug\netcoreapp3.1\WorkingWithVariables.dll
+E:\C#_Projects\C#7C\WorkingWithVariables\bin\Debug\netcoreapp3.1\WorkingWithVariables.pdb
+E:\C#_Projects\C#7C\WorkingWithVariables\obj\Debug\netcoreapp3.1\WorkingWithVariables.dll
+E:\C#_Projects\C#7C\WorkingWithVariables\obj\Debug\netcoreapp3.1\WorkingWithVariables.pdb
+E:\C#_Projects\C#7C\WorkingWithVariables\obj\Debug\netcoreapp3.1\WorkingWithVariables.genruntimeconfig.cache

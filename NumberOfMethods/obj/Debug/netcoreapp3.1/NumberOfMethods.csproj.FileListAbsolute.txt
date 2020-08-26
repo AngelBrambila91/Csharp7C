@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\NumberOfMethods\bin\Debug\netcoreapp3.1\NumberOfMethods.exe
+E:\C#_Projects\C#7C\NumberOfMethods\bin\Debug\netcoreapp3.1\NumberOfMethods.deps.json
+E:\C#_Projects\C#7C\NumberOfMethods\bin\Debug\netcoreapp3.1\NumberOfMethods.runtimeconfig.json
+E:\C#_Projects\C#7C\NumberOfMethods\bin\Debug\netcoreapp3.1\NumberOfMethods.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\NumberOfMethods\bin\Debug\netcoreapp3.1\NumberOfMethods.dll
+E:\C#_Projects\C#7C\NumberOfMethods\bin\Debug\netcoreapp3.1\NumberOfMethods.pdb
+E:\C#_Projects\C#7C\NumberOfMethods\obj\Debug\netcoreapp3.1\NumberOfMethods.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\NumberOfMethods\obj\Debug\netcoreapp3.1\NumberOfMethods.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\NumberOfMethods\obj\Debug\netcoreapp3.1\NumberOfMethods.AssemblyInfo.cs
+E:\C#_Projects\C#7C\NumberOfMethods\obj\Debug\netcoreapp3.1\NumberOfMethods.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\NumberOfMethods\obj\Debug\netcoreapp3.1\NumberOfMethods.dll
+E:\C#_Projects\C#7C\NumberOfMethods\obj\Debug\netcoreapp3.1\NumberOfMethods.pdb
+E:\C#_Projects\C#7C\NumberOfMethods\obj\Debug\netcoreapp3.1\NumberOfMethods.genruntimeconfig.cache
