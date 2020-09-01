@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\obj\Debug\netcoreapp3.1\GettingInput.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\obj\Debug\netcoreapp3.1\GettingInput.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\obj\Debug\netcoreapp3.1\GettingInput.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\obj\Debug\netcoreapp3.1\GettingInput.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\bin\Debug\netcoreapp3.1\GettingInput.exe
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\bin\Debug\netcoreapp3.1\GettingInput.deps.json
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\bin\Debug\netcoreapp3.1\GettingInput.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\bin\Debug\netcoreapp3.1\GettingInput.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\bin\Debug\netcoreapp3.1\GettingInput.dll
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\bin\Debug\netcoreapp3.1\GettingInput.pdb
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\obj\Debug\netcoreapp3.1\GettingInput.dll
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\obj\Debug\netcoreapp3.1\GettingInput.pdb
+E:\C#_Projects\C#7C\Csharp7C\GettingInput\obj\Debug\netcoreapp3.1\GettingInput.genruntimeconfig.cache

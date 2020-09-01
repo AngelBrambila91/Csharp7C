@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\bin\Debug\netcoreapp3.1\FormattingConsole.exe
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\bin\Debug\netcoreapp3.1\FormattingConsole.deps.json
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\bin\Debug\netcoreapp3.1\FormattingConsole.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\bin\Debug\netcoreapp3.1\FormattingConsole.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\bin\Debug\netcoreapp3.1\FormattingConsole.dll
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\bin\Debug\netcoreapp3.1\FormattingConsole.pdb
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\obj\Debug\netcoreapp3.1\FormattingConsole.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\obj\Debug\netcoreapp3.1\FormattingConsole.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\obj\Debug\netcoreapp3.1\FormattingConsole.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\obj\Debug\netcoreapp3.1\FormattingConsole.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\obj\Debug\netcoreapp3.1\FormattingConsole.dll
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\obj\Debug\netcoreapp3.1\FormattingConsole.pdb
+E:\C#_Projects\C#7C\Csharp7C\FormattingConsole\obj\Debug\netcoreapp3.1\FormattingConsole.genruntimeconfig.cache

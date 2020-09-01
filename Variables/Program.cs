@@ -32,6 +32,13 @@ namespace Variables
                 WriteLine(LastName.GetType());
             #endregion
             
+            #region DefaultValues
+                WriteLine($"default(int) = {default(int)}");
+                WriteLine($"default(bool) = {default(bool)}");
+                WriteLine($"default(char) = {default(char)}");
+                WriteLine($"default(DateTime) = {default(DateTime)}");
+                WriteLine($"default(string) = {default(string)}");
+            #endregion
         }
     }
 }
