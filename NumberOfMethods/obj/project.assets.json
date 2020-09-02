@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#_Projects\\C#7C\\NumberOfMethods\\NumberOfMethods.csproj",
+      "projectUniqueName": "E:\\C#_Projects\\C#7C\\Csharp7C\\NumberOfMethods\\NumberOfMethods.csproj",
       "projectName": "NumberOfMethods",
-      "projectPath": "E:\\C#_Projects\\C#7C\\NumberOfMethods\\NumberOfMethods.csproj",
+      "projectPath": "E:\\C#_Projects\\C#7C\\Csharp7C\\NumberOfMethods\\NumberOfMethods.csproj",
       "packagesPath": "C:\\Users\\AORUS_DM\\.nuget\\packages\\",
-      "outputPath": "E:\\C#_Projects\\C#7C\\NumberOfMethods\\obj\\",
+      "outputPath": "E:\\C#_Projects\\C#7C\\Csharp7C\\NumberOfMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
