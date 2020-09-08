@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\bin\Debug\netcoreapp3.1\CastingAndConverting.exe
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\bin\Debug\netcoreapp3.1\CastingAndConverting.deps.json
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\bin\Debug\netcoreapp3.1\CastingAndConverting.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\bin\Debug\netcoreapp3.1\CastingAndConverting.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\bin\Debug\netcoreapp3.1\CastingAndConverting.dll
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\bin\Debug\netcoreapp3.1\CastingAndConverting.pdb
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\obj\Debug\netcoreapp3.1\CastingAndConverting.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\obj\Debug\netcoreapp3.1\CastingAndConverting.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\obj\Debug\netcoreapp3.1\CastingAndConverting.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\obj\Debug\netcoreapp3.1\CastingAndConverting.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\obj\Debug\netcoreapp3.1\CastingAndConverting.dll
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\obj\Debug\netcoreapp3.1\CastingAndConverting.pdb
+E:\C#_Projects\C#7C\Csharp7C\CastingAndConverting\obj\Debug\netcoreapp3.1\CastingAndConverting.genruntimeconfig.cache

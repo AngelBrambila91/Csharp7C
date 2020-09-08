@@ -87,7 +87,7 @@ namespace SelectionStatements
                     default:
                     message = "The stream is some other type.";
                     break;
-
+                    
                     case null:
                     message = "the stream is null.";
                     break;
