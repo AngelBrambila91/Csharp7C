@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\Csharp7C\Functions\bin\Debug\netcoreapp3.1\Functions.exe
+E:\C#_Projects\C#7C\Csharp7C\Functions\bin\Debug\netcoreapp3.1\Functions.deps.json
+E:\C#_Projects\C#7C\Csharp7C\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\Functions\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\Functions\bin\Debug\netcoreapp3.1\Functions.dll
+E:\C#_Projects\C#7C\Csharp7C\Functions\bin\Debug\netcoreapp3.1\Functions.pdb
+E:\C#_Projects\C#7C\Csharp7C\Functions\obj\Debug\netcoreapp3.1\Functions.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\Functions\obj\Debug\netcoreapp3.1\Functions.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\Functions\obj\Debug\netcoreapp3.1\Functions.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\Functions\obj\Debug\netcoreapp3.1\Functions.dll
+E:\C#_Projects\C#7C\Csharp7C\Functions\obj\Debug\netcoreapp3.1\Functions.pdb
+E:\C#_Projects\C#7C\Csharp7C\Functions\obj\Debug\netcoreapp3.1\Functions.genruntimeconfig.cache
