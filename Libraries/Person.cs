@@ -18,6 +18,9 @@ namespace Libraries
         // private protected
         public PlacesToVisit placesToVisit;
         public List<Person> Children = new List<Person>();
+        public const string Species = "Homo Sapiens";
+        public readonly string HomePlanet = "Earth";
+        public readonly DateTime Instantiated;
         /*
         Methods
             Constructor
@@ -25,5 +28,17 @@ namespace Libraries
             Indexer
             Operator
         */
+        public Person()
+        {
+            Name = "Unknown";
+            Instantiated = DateTime.Now;
+        }
+
+        public Person(string initialName , string homePlanet)
+        {
+            Name = initialName;
+            HomePlanet = homePlanet;
+            Instantiated = DateTime.Now;
+        }
     }
 }
