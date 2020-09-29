@@ -1,0 +1,9 @@
+E:\C#_Projects\C#7C\Csharp7C\Libraries\bin\Debug\netstandard2.0\Libraries.deps.json
+E:\C#_Projects\C#7C\Csharp7C\Libraries\bin\Debug\netstandard2.0\Libraries.dll
+E:\C#_Projects\C#7C\Csharp7C\Libraries\bin\Debug\netstandard2.0\Libraries.pdb
+E:\C#_Projects\C#7C\Csharp7C\Libraries\obj\Debug\netstandard2.0\Libraries.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\Libraries\obj\Debug\netstandard2.0\Libraries.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\Libraries\obj\Debug\netstandard2.0\Libraries.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\Libraries\obj\Debug\netstandard2.0\Libraries.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\Libraries\obj\Debug\netstandard2.0\Libraries.dll
+E:\C#_Projects\C#7C\Csharp7C\Libraries\obj\Debug\netstandard2.0\Libraries.pdb
