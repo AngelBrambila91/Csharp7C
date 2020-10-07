@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 namespace Libraries
 {
-    public class Person
+    public partial class Person : IComparable<Person>
     {
-                /*
+        /*
         Fields
             Constant
             Read-Only
@@ -39,6 +39,26 @@ namespace Libraries
             Name = initialName;
             HomePlanet = homePlanet;
             Instantiated = DateTime.Now;
+        }
+
+        public (string Name , int Number) GetNameFruit()
+        {
+            return (Name : "Apples", Number : 5);
+        }
+
+        public void PassingParameters (int x , ref int y , out int z)
+        {
+            // out parameters cannot have a default
+            // AND must be initialized inside the method
+            z = 10;
+            x++;
+            y++;
+            z++;
+        }
+        //Override
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
         }
     }
 }
