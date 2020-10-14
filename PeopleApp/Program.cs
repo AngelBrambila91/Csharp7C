@@ -93,10 +93,10 @@ namespace PeopleApp
             #endregion
 
             #region Making ana angry (Using delegates)
-                // Person ana = new Person();
-                // ana.Shout = Ana_Shout;
-                // ana.Shout += Elena_Shout;
-                // ana.Shout += Adrian_Shout;
+                Person ana = new Person();
+                ana.Shout = Ana_Shout;
+                ana.Shout += Elena_Shout;
+                ana.Shout += Adrian_Shout;
 
                 // ana.Poke();
                 // ana.Poke();

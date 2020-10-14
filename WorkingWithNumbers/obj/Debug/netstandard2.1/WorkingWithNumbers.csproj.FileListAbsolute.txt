@@ -1,0 +1,9 @@
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\bin\Debug\netstandard2.1\WorkingWithNumbers.deps.json
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\bin\Debug\netstandard2.1\WorkingWithNumbers.dll
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\bin\Debug\netstandard2.1\WorkingWithNumbers.pdb
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\obj\Debug\netstandard2.1\WorkingWithNumbers.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\obj\Debug\netstandard2.1\WorkingWithNumbers.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\obj\Debug\netstandard2.1\WorkingWithNumbers.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\obj\Debug\netstandard2.1\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\obj\Debug\netstandard2.1\WorkingWithNumbers.dll
+E:\C#_Projects\C#7C\Csharp7C\WorkingWithNumbers\obj\Debug\netstandard2.1\WorkingWithNumbers.pdb

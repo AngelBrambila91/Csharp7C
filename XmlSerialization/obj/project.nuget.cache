@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEYCNrP2qKvIY5DlSQc/h3xdxAjVDsaqydPxUsd6DkXqq5AipAR3Z6m6ZvAsDUGFJBYzPBq+DfALy7S9R9Y7sw==",
+  "success": true,
+  "projectFilePath": "E:\\C#_Projects\\C#7C\\Csharp7C\\XmlSerialization\\XmlSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AORUS_DM\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\bin\Debug\netcoreapp3.1\FilesSystem.exe
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\bin\Debug\netcoreapp3.1\FilesSystem.deps.json
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\bin\Debug\netcoreapp3.1\FilesSystem.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\bin\Debug\netcoreapp3.1\FilesSystem.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\bin\Debug\netcoreapp3.1\FilesSystem.dll
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\bin\Debug\netcoreapp3.1\FilesSystem.pdb
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\obj\Debug\netcoreapp3.1\FilesSystem.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\obj\Debug\netcoreapp3.1\FilesSystem.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\obj\Debug\netcoreapp3.1\FilesSystem.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\obj\Debug\netcoreapp3.1\FilesSystem.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\obj\Debug\netcoreapp3.1\FilesSystem.dll
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\obj\Debug\netcoreapp3.1\FilesSystem.pdb
+E:\C#_Projects\C#7C\Csharp7C\FilesSystem\obj\Debug\netcoreapp3.1\FilesSystem.genruntimeconfig.cache

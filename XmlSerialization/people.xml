@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName>Adrian</FirstName>
+    <LastName>Smith</LastName>
+    <DateOfBirth>2000-07-03T00:00:00</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>Oscar</FirstName>
+    <LastName>Uchiha</LastName>
+    <DateOfBirth>2000-07-03T00:00:00</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>Elena</FirstName>
+    <LastName>Fresa</LastName>
+    <DateOfBirth>2000-07-03T00:00:00</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>Ana</FirstName>
+    <LastName>Scream</LastName>
+    <DateOfBirth>2000-07-03T00:00:00</DateOfBirth>
+  </Person>
+  <Person>
+    <FirstName>Ricardo</FirstName>
+    <LastName>Lol</LastName>
+    <DateOfBirth>2000-07-03T00:00:00</DateOfBirth>
+  </Person>
+</ArrayOfPerson>

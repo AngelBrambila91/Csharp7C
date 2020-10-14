@@ -1,0 +1,15 @@
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.exe
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.deps.json
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.dll
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\bin\Debug\netcoreapp3.1\XmlSerialization.pdb
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.dll
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.pdb
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.genruntimeconfig.cache
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#_Projects\C#7C\Csharp7C\XmlSerialization\obj\Debug\netcoreapp3.1\XmlSerialization.csproj.CopyComplete

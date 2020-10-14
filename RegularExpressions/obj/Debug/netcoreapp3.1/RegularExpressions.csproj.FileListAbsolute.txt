@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.exe
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.deps.json
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.dll
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.pdb
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.dll
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.pdb
+E:\C#_Projects\C#7C\Csharp7C\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\bin\Debug\netcoreapp3.1\WorkWithDirectories.exe
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\bin\Debug\netcoreapp3.1\WorkWithDirectories.deps.json
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\bin\Debug\netcoreapp3.1\WorkWithDirectories.runtimeconfig.json
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\bin\Debug\netcoreapp3.1\WorkWithDirectories.runtimeconfig.dev.json
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\bin\Debug\netcoreapp3.1\WorkWithDirectories.dll
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\bin\Debug\netcoreapp3.1\WorkWithDirectories.pdb
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\obj\Debug\netcoreapp3.1\WorkWithDirectories.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\obj\Debug\netcoreapp3.1\WorkWithDirectories.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\obj\Debug\netcoreapp3.1\WorkWithDirectories.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\obj\Debug\netcoreapp3.1\WorkWithDirectories.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\obj\Debug\netcoreapp3.1\WorkWithDirectories.dll
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\obj\Debug\netcoreapp3.1\WorkWithDirectories.pdb
+E:\C#_Projects\C#7C\Csharp7C\WorkWithDirectories\obj\Debug\netcoreapp3.1\WorkWithDirectories.genruntimeconfig.cache
