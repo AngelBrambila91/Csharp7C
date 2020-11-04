@@ -95,6 +95,10 @@ namespace WorkWithDirectories
 
             WriteLine($"{xmlFile} cointains {new FileInfo(xmlFile).Length}");
             WriteLine(File.ReadAllText(xmlFile));
+
+
+            for
+
         }
     }
 }
