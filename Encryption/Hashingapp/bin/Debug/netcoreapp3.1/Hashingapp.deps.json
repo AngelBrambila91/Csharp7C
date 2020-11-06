@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hashingapp/1.0.0": {
+        "dependencies": {
+          "CryptoLib": "1.0.0"
+        },
+        "runtime": {
+          "Hashingapp.dll": {}
+        }
+      },
+      "CryptoLib/1.0.0": {
+        "runtime": {
+          "CryptoLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hashingapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CryptoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
