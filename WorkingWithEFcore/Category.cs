@@ -11,7 +11,7 @@ namespace WorkingWithEFcore
         public string Description { get; set; }
 
         // defines anavigation property
-        public virtual ICollection <Product> Products { get; set; }
+        public virtual ICollection<Product> Products { get; set; }
 
         public Category()
         {

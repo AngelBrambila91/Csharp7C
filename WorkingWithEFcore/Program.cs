@@ -1,9 +1,13 @@
 ﻿using System;
 using static System.Console;
+using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 using SharpPad;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 
 namespace WorkingWithEFcore
 {
@@ -27,12 +31,13 @@ namespace WorkingWithEFcore
         */
 
 
-        static async Task Main(string[] args)
+        static void Main(string[] args)
         {
-            QueryingCategories();
+            //QueryingCategories();
+            QueryingProducts();
         }
 
-        static async Task QueryingCategories()
+        static void QueryingCategories()
         {
             using (var db = new Northwind())
             {
@@ -44,7 +49,32 @@ namespace WorkingWithEFcore
                 {
                     WriteLine($"{c.CategoryName} has {c.Products.Count} products");
                 }
-                await cats.Dump();
+            }
+        }
+
+        static void QueryingProducts()
+        {
+            using (var db = new Northwind())
+            {
+                // var loggerFactory = db.GetService<ILoggerFactory>();
+                // loggerFactory.AddProvider(new ConsoleLoggerProvider());
+                WriteLine("Products that cost more than a price.");
+                string input;
+                decimal price;
+                do
+                {
+                    Write("Enter a product price : ");
+                    input = ReadLine();
+                } while (!decimal.TryParse(input, out price));
+
+                var prods = db.Products
+                .Where(p => p.Cost > price)
+                .OrderByDescending (p => p.Cost);
+
+                foreach (Product item in prods)
+                {
+                    WriteLine($"{item.ProductID} : {item.ProductName} costs {item.Cost: $#,##0.00} and has {item.Stock} in stock.");
+                }
             }
         }
     }

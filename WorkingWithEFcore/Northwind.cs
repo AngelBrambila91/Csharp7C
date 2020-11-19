@@ -19,6 +19,14 @@ namespace WorkingWithEFcore
             .Property(category => category.CategoryName)
             .IsRequired() // NOT NULL
             .HasMaxLength(15);
+            modelBuilder.Entity<Product>()
+            .Property(p => p.ProductName)
+            .IsRequired()
+            .HasMaxLength(40);
+            
+            modelBuilder.Entity<Product>()
+            .Property(product => product.Cost)
+            .HasConversion<double>();
         }
     }
 }
