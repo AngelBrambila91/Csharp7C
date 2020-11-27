@@ -1,0 +1,9 @@
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb

@@ -1,0 +1,12 @@
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.deps.json
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.dll
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.pdb
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.pdb
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csprojAssemblyReference.cache
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfo.cs
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CopyComplete
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.dll
+E:\C#_Projects\C#7C\Csharp7C\3P\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.pdb
